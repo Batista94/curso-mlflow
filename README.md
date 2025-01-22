@@ -1,2 +1,4 @@
 # curso-mlflow
-Repo dedicado as atividades do curso MLFLOW do canal  youtube.com/@teomewhy
+O uso dessa ferramenta viabilisará a produção e gestão de diferentes modelos treinados. Bem como auxiliará na maneira como os modelos são selecionados para produção.
+
+Todo material está no YouTube no Canal [@teomewhy](https://www.youtube.com/@teomewhy)
