@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/1c920588a3ad4ee0bb18ecf3e7c0e250/artifacts
+end_time: 1737664966399
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: 1c920588a3ad4ee0bb18ecf3e7c0e250
+run_name: rare-asp-545
+run_uuid: 1c920588a3ad4ee0bb18ecf3e7c0e250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737664959229
+status: 3
+tags: []
+user_id: wes_b

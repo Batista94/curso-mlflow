@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/6a97f0abe9ff4aa38c656e36b795e0bc/artifacts
+end_time: 1737664924030
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: 6a97f0abe9ff4aa38c656e36b795e0bc
+run_name: gaudy-roo-560
+run_uuid: 6a97f0abe9ff4aa38c656e36b795e0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737664917848
+status: 3
+tags: []
+user_id: wes_b

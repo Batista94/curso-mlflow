@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/a081d6a8a5924a1e928fbfee774078a0/artifacts
+end_time: 1737664940152
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: a081d6a8a5924a1e928fbfee774078a0
+run_name: secretive-turtle-272
+run_uuid: a081d6a8a5924a1e928fbfee774078a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737664935030
+status: 3
+tags: []
+user_id: wes_b

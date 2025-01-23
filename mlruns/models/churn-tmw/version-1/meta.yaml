@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737663193564
+current_stage: None
+description: ''
+last_updated_timestamp: 1737663193564
+name: churn-tmw
+run_id: 57485c1c283c44b7afd8e6fab610b358
+run_link: ''
+source: mlflow-artifacts:/368232440139635018/57485c1c283c44b7afd8e6fab610b358/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/368232440139635018/57485c1c283c44b7afd8e6fab610b358/artifacts/model
+user_id: null
+version: 1

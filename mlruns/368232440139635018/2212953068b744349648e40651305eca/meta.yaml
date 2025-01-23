@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/2212953068b744349648e40651305eca/artifacts
+end_time: 1737662463855
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: 2212953068b744349648e40651305eca
+run_name: suave-moth-589
+run_uuid: 2212953068b744349648e40651305eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737662455139
+status: 3
+tags: []
+user_id: wes_b
