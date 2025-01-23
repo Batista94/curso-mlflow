@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/144311205b354bcd89f619a2c88f567e/artifacts
+end_time: 1737599743231
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: 144311205b354bcd89f619a2c88f567e
+run_name: brawny-finch-250
+run_uuid: 144311205b354bcd89f619a2c88f567e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737599727564
+status: 3
+tags: []
+user_id: wes_b

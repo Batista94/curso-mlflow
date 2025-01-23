@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368232440139635018/abfb8a2356ec4eddbbe5d7a3c3606900/artifacts
+end_time: 1737600246559
+entry_point_name: ''
+experiment_id: '368232440139635018'
+lifecycle_stage: active
+run_id: abfb8a2356ec4eddbbe5d7a3c3606900
+run_name: bemused-bat-657
+run_uuid: abfb8a2356ec4eddbbe5d7a3c3606900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737600238006
+status: 3
+tags: []
+user_id: wes_b
