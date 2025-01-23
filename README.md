@@ -42,7 +42,10 @@ mlflow server
 Assim que você criar os primeiros modelos e exeprimentos, as demais pastas serão criadas.
 
 # model_churn
-É o diretório do nosso projeto de Machine Learning. É onde contruímos o nosso modelo, armazenamos os dados, e todo código necessário para o modelo ser treinado e executado.
+
+Por melhores práticas, o ambiente de Machine Learning é separado do ambiente do MLFlow
+
+Esse é o diretório do nosso projeto de Machine Learning. É onde contruímos o nosso modelo, armazenamos os dados, e todo código necessário para o modelo ser treinado e executado.
 
 Para construir o ambiente necessário, execute os comandos:
 ```
